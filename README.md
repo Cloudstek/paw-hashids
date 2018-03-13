@@ -9,8 +9,16 @@ This extension was originally written and published by [Joe Tannenbaum](https://
 
 ## Installation
 
-1.  Download the latest release from the [releases page](https://github.com/Cloudstek/Paw-HashidsDynamicValue/releases) or clone the repository to your Paw extensions dir.
-2.  Make sure you name the folder `nl.cloudstek.Hashids` else it won't work.
-3.  Enter the folder and run `yarn` or `npm install` to install required dependencies.
+### Pre-compiled
+
+1.  Download the latest pre-compiled release from the [releases page](https://github.com/Cloudstek/Paw-HashidsDynamicValue/releases)
+2.  Extract the contents to your paw extensions folder.
+3.  Make sure you name the folder `nl.cloudstek.Hashids` else it won't work.
 4.  Open Paw and enjoy!
 
+### Development
+
+1.  Clone this repository
+2.  Run `yarn` or `npm install`
+3.  Run `webpack`
+4.  Copy the contents of build/ to your paw extensions folder.
