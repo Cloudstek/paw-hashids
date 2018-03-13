@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "hashids": "^1.1.4"
+  },
+  "name": "Paw-HashidsDynamicValue",
+  "version": "1.0.0",
+  "main": "Hashids.js",
+  "repository": "git@github.com:Cloudstek/Paw-HashidsDynamicValue.git",
+  "author": "Maarten de Boer <maarten@cloudstek.nl>",
+  "license": "MIT",
+  "contributors": [
+    "Joe Tannenbaum (https://github.com/joetannenbaum)"
+  ]
+}
