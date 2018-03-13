@@ -2,7 +2,7 @@
   "dependencies": {
     "hashids": "^1.1.4"
   },
-  "name": "Paw-HashidsDynamicValue",
+  "name": "paw-hashids",
   "version": "1.0.0",
   "main": "Hashids.js",
   "repository": "git@github.com:Cloudstek/Paw-HashidsDynamicValue.git",
