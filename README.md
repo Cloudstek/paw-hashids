@@ -20,5 +20,5 @@ This extension was originally written and published by [Joe Tannenbaum](https://
 
 1.  Clone this repository
 2.  Run `yarn` or `npm install`
-3.  Run `webpack`
-4.  Copy the contents of build/ to your paw extensions folder.
+3.  Run `yarn run build` or `npm run build`
+4.  Copy the `nl.cloudstek.Hashids` dir found in `build` to your paw extensions folder.
