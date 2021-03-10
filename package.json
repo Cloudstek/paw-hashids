@@ -1,6 +1,6 @@
 {
   "name": "paw-hashids",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "main": "Hashids.js",
   "repository": "git@github.com:Cloudstek/Paw-HashidsDynamicValue.git",
   "author": "Maarten de Boer <maarten@cloudstek.nl>",
@@ -14,8 +14,8 @@
     "@babel/preset-env": "^7.9.0",
     "babel-loader": "^8.1.0",
     "hashids": "^2.2.1",
-    "webpack": "^4.1.1",
-    "webpack-cli": "^3.3.11"
+    "webpack": "^5.24.4",
+    "webpack-cli": "^4.5.0"
   },
   "scripts": {
     "build": "webpack --mode production"
